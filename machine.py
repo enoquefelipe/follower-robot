@@ -13,5 +13,6 @@ def run(sec):
  time.sleep(sec)
  gpio.cleanup()
 
-print "Executando..."
+print "Running..."
 run(2)
+print "Finished..."
