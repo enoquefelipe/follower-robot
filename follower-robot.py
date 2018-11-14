@@ -6,8 +6,9 @@ LimiarBinarizacao = 125         # este valor eh empirico. Ajuste-o conforme sua 
 AreaContornoLimiteMin = 5000    # este valor eh empirico. Ajuste-o conforme sua necessidade
 
 # GPIOs utilizados:
-GPIOMotor1 = 18  # Broadcom pi2067n 18 (P1 pin 12)
+# GPIOMotor1 = 18  # Broadcom pi2067n 18 (P1 pin 12)
 GPIOMotor2 = 17  # Broadcom pin 17 (P1 pin 11)
+GPIOMotor1 = 24  # Broadcom pi2067n 24 (P1 pin 8)
 
 
 # Funcao: trata imagem e retorna se o robo seguidor de linha deve ir para a esqueda ou direita
