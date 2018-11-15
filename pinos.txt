@@ -1,0 +1,4 @@
+GPIO17 - pino 11
+GPIO22 - pino 15
+GPIO23 - pino 16
+GPIO24 - pino 18
